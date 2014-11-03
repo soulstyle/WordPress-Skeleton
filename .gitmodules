@@ -16,3 +16,6 @@
 [submodule "content/plugins/wp-admin-ui-customize"]
 	path = content/plugins/wp-admin-ui-customize
 	url = https://github.com/wp-plugins/wp-admin-ui-customize.git
+[submodule "content/plugins/wp-help"]
+	path = content/plugins/wp-help
+	url = https://github.com/markjaquith/wp-help.git
