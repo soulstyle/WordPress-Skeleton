@@ -4,3 +4,6 @@
 [submodule "content/plugins/wordpress-seo"]
 	path = content/plugins/wordpress-seo
 	url = https://github.com/yoast/wordpress-seo.git
+[submodule "content/plugins/use-google-libraries"]
+	path = content/plugins/use-google-libraries
+	url = https://github.com/jpenney/use-google-libraries.git
