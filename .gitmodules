@@ -10,3 +10,9 @@
 [submodule "content/plugins/white-label-cms"]
 	path = content/plugins/white-label-cms
 	url = https://github.com/wp-plugins/white-label-cms.git
+[submodule "content/plugins/wp-migrate-db"]
+	path = content/plugins/wp-migrate-db
+	url = https://github.com/bradt/wp-migrate-db.git
+[submodule "content/plugins/wp-admin-ui-customize"]
+	path = content/plugins/wp-admin-ui-customize
+	url = https://github.com/wp-plugins/wp-admin-ui-customize.git
