@@ -19,3 +19,6 @@
 [submodule "content/plugins/wp-help"]
 	path = content/plugins/wp-help
 	url = https://github.com/markjaquith/wp-help.git
+[submodule "content/plugins/ultimate-coming-soon-page"]
+	path = content/plugins/ultimate-coming-soon-page
+	url = https://github.com/wp-plugins/ultimate-coming-soon-page.git
